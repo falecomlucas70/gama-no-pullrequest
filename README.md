@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Estou gostando bastante, aprendendo algumas funcionalidades novas no github, e outras informações sobre desenvolvimento web.
+Essa é uma nova brand, chamada gama/lucassdoliveira
